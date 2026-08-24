@@ -20,26 +20,6 @@
 
 決定的な輪郭と局部特徴を、一枚の実在する旅のバッジへ圧縮します。元写真由来のエナメル区画、金属の仕切り、白金属の縁、抑えた流金、丸い厚み、短い実在影が一体になります。
 
-## この Skill が必要な理由
-
-このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
-
-```text
-lock identity and silhouette → preserve the decisive contour and local features → simplify into meaningful enamel cells → build real metal dividers and white-metal rim → add restrained gilded accents, thickness, bevel, and short contact shadow → integrate native title into the badge body
-```
-
-無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
-
-## ビジュアル契約
-
-- **元写真への拘束：** 旅の記憶を、一枚の流金エナメルバッジへ
-- **スタイルDNA：** 一枚の徽章 · 元写真のエナメル色 · 白金属縁 · 流金の細部 · 実在する短い影
-- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
-- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
-- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
-
-美的制約と拒否項目は[原文プロンプト](references/037-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-037-prompt.en.md)
-
 ## 作例 · X より
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090799598336168140) · 2026-08-21<br>
@@ -59,6 +39,26 @@ lock identity and silhouette → preserve the decisive contour and local feature
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090799598336168140">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 037 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+## この Skill が必要な理由
+
+このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
+
+```text
+lock identity and silhouette → preserve the decisive contour and local features → simplify into meaningful enamel cells → build real metal dividers and white-metal rim → add restrained gilded accents, thickness, bevel, and short contact shadow → integrate native title into the badge body
+```
+
+無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
+
+## ビジュアル契約
+
+- **元写真への拘束：** 旅の記憶を、一枚の流金エナメルバッジへ
+- **スタイルDNA：** 一枚の徽章 · 元写真のエナメル色 · 白金属縁 · 流金の細部 · 実在する短い影
+- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
+- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
+- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
+
+美的制約と拒否項目は[原文プロンプト](references/037-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-037-prompt.en.md)
 
 ## 原文プロンプトを唯一の美的基準にする
 

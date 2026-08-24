@@ -20,26 +20,6 @@
 
 The defining contour and local features become one physical travel badge: source-derived enamel cells, metal dividers, a white-metal rim, restrained gilded detail, rounded thickness, and a short real shadow.
 
-## Why this Skill exists
-
-The style is source-dependent, not a decorative preset. Its operative transformation is:
-
-```text
-lock identity and silhouette → preserve the decisive contour and local features → simplify into meaningful enamel cells → build real metal dividers and white-metal rim → add restrained gilded accents, thickness, bevel, and short contact shadow → integrate native title into the badge body
-```
-
-If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
-
-## The visual contract
-
-- Preserve at least three cues across silhouette, proportion, pose, opening, structure, local feature, or relation.
-- Build one complete badge with clean enamel partitions, a crisp white-metal outline, rounded bevel, visible but restrained thickness, and a short soft shadow on a pale field.
-- Extract a lively source palette; every enamel colour must define a structural region, while gold appears only as a divider or meaningful highlight.
-- Enamel is smooth, saturated, subtly raised, and physically lit without becoming plastic; metal has fine reflection without cheap yellow glare.
-- Allow source-earned offset, tilt, or extension, but keep the badge stable, elegant, and collectible.
-
-Aesthetic constraints and rejection rules live only in the [original source brief](references/037-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-037-prompt.en.md)
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090799598336168140) · 2026-08-21<br>
@@ -59,6 +39,26 @@ Aesthetic constraints and rejection rules live only in the [original source brie
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090799598336168140">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 037 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Why this Skill exists
+
+The style is source-dependent, not a decorative preset. Its operative transformation is:
+
+```text
+lock identity and silhouette → preserve the decisive contour and local features → simplify into meaningful enamel cells → build real metal dividers and white-metal rim → add restrained gilded accents, thickness, bevel, and short contact shadow → integrate native title into the badge body
+```
+
+If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
+
+## The visual contract
+
+- Preserve at least three cues across silhouette, proportion, pose, opening, structure, local feature, or relation.
+- Build one complete badge with clean enamel partitions, a crisp white-metal outline, rounded bevel, visible but restrained thickness, and a short soft shadow on a pale field.
+- Extract a lively source palette; every enamel colour must define a structural region, while gold appears only as a divider or meaningful highlight.
+- Enamel is smooth, saturated, subtly raised, and physically lit without becoming plastic; metal has fine reflection without cheap yellow glare.
+- Allow source-earned offset, tilt, or extension, but keep the badge stable, elegant, and collectible.
+
+Aesthetic constraints and rejection rules live only in the [original source brief](references/037-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-037-prompt.en.md)
 
 ## The original brief is authoritative
 
