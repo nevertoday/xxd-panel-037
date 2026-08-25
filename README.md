@@ -40,6 +40,12 @@
 
 决定性的轮廓与局部特征被压缩为一枚真实旅行徽章：源图衍生珐琅色格、金属分隔线、白色金属外框、克制流金细节、圆润厚度和短促实体投影。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 037 适合你吗？
 
@@ -69,11 +75,11 @@
 - 珐琅光洁、饱满、轻微隆起且受光真实，但不得塑料化；金属反光细腻，不得廉价黄亮。
 - 允许有源图依据的偏置、倾斜或局部延展，但整体必须稳定、精致、可收藏。
 
-原始审美约束与拒绝项只存在于[原始提示词](references/037-source.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-037-prompt.en.md)
+原始审美约束与拒绝项只存在于[原始提示词](references/original-prompt/zh-CN.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-037-prompt.en.md)
 
 ## 原始提示词优先，而不是二次导演
 
-`references/037-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
@@ -213,7 +219,7 @@ $xxd-panel-037
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/037-source.md) · [英文运行适配器](references/xxd-panel-037-prompt.en.md) · [中文运行适配器](references/xxd-panel-037-prompt.zh-CN.md)
+完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/original-prompt/zh-CN.md) · [英文运行适配器](references/xxd-panel-037-prompt.en.md) · [中文运行适配器](references/xxd-panel-037-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全系列项目
