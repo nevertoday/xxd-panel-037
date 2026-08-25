@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> ONE BADGE · SOURCE ENAMEL · WHITE-METAL RIM · GILDED DETAIL · REAL SHADOW
-
-The defining contour and local features become one physical travel badge: source-derived enamel cells, metal dividers, a white-metal rim, restrained gilded detail, rounded thickness, and a short real shadow.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090799598336168140) · 2026-08-21<br>
-> GPT2 x 鎏金珐琅 x 冰箱贴 x 美学提示词 x VOL.037
 
 <table>
   <tr>
@@ -36,9 +27,18 @@ The defining contour and local features become one physical travel badge: source
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090799598336168140) · 2026-08-21<br>
+> GPT2 x 鎏金珐琅 x 冰箱贴 x 美学提示词 x VOL.037
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090799598336168140">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 037 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> ONE BADGE · SOURCE ENAMEL · WHITE-METAL RIM · GILDED DETAIL · REAL SHADOW
+
+The defining contour and local features become one physical travel badge: source-derived enamel cells, metal dividers, a white-metal rim, restrained gilded detail, rounded thickness, and a short real shadow.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 037 right for you?
