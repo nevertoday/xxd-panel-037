@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 037
+# 🦁 XXD Panel 037｜流れる金の紋章
 
 ### 旅の記憶を、一枚の流金エナメルバッジへ
 

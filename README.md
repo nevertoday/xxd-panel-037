@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 037
+# 🦁 XXD Panel 037｜流金徽章
 
 ### 把每段旅程做成一枚可收藏的流金珐琅徽章
 

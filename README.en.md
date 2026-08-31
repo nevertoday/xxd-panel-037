@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 037
+# 🦁 XXD Panel 037｜Flowing Gold Emblem
 
 ### Turn each journey into one collectible gilded-enamel badge
 

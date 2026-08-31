@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 037
+# 🦁 XXD Panel 037｜흐르는 금빛 엠블럼
 
 ### 여행을 하나의 유금 에나멜 배지로
 
