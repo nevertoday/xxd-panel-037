@@ -4,10 +4,6 @@
 
 ### 旅の記憶を、一枚の流金エナメルバッジへ
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
-[![Modes](https://img.shields.io/badge/Modes-4-E7483E?style=flat-square)](#)
-[![Output](https://img.shields.io/badge/Output-PNG-1A7A8C?style=flat-square)](#)
-
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
@@ -25,7 +21,7 @@
   </tr>
 </table>
 
-## 追加 16:9 左右構成サンプル
+## 16:9 左右構成作例
 
 <table>
   <tr>
@@ -38,7 +34,7 @@
   </tr>
 </table>
 
-## 追加 3:4 上下構成作例
+## 3:4 上下構成作例
 
 上の 16:9 作例と同じ4点の独立素材を、完全な 3:4 上下構成として再生成しました。上部は現実の写真を保ち、下部は Panel 037 の原文プロンプトに従って再構成しています。英語コピーは各写真の内容・空気・含意だけから生成し、全点を個別に確認しました。
 
@@ -292,15 +288,15 @@ Claude Code では同じフォルダを次へリンクできます： `~/.claude
 
 ```text
 $xxd-panel-037
-Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
+この写真を使用し、構図モードとテキスト設定を先に確認してから、新しいビットマップ画像を生成してください。
 ```
 
 完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-037-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-037-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
-## XXD Panel 全プロジェクト一覧
+## XXD Panel 歴代ディレクトリ
 
-60 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。全プロジェクトの URL と主要なスタイル特性を一覧にし、現在のプロジェクトを太字で示します。
+この表は歴代 001–060 Panel のディレクトリです。各項目は独立した原文プロンプトと美的ロジックを保持し、現在のプロジェクトを太字で示します。
 
 | プロジェクト | スタイル特性 |
 |---|---|
@@ -382,7 +378,7 @@ CNY 100 の一回払いで、このシリーズの将軍総指揮 Skill（`xxd-p
 | 階級 | Skill | 担当 |
 |---|---|---|
 | **将軍級** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 利用可能な番号付き Skills の検出、画像・テーマ・用途からの推薦、番号指定の派遣、同一素材の複数スタイル試作、フォルダー画像の一括割り当てと個別派遣。 |
-| **兵士級** | `xxd-panel-NNN`（現在 001–060） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
+| **兵士級** | `xxd-panel-NNN`（現在 001–112） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
 
 将軍 Skill は、番号付き Skills 全隊の司令塔です。購入後すぐに利用でき、インストール、更新、編成、派遣方法についてサポートを受けられます。将軍は整理と派遣だけを担当し、兵士の原文美学を改変・混合・上書きしません。各完成作品は、選ばれた兵士 Skill が独立して制作します。
 <!-- xxd-panel-command-system:end -->
