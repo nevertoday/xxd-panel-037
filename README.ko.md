@@ -23,46 +23,33 @@
 
 ## 16:9 좌우 구성 예시
 
+서로 다른 원본 네 장으로 만든 16:9 완성 캔버스. 왼쪽은 실사, 오른쪽은 이 Panel 디자인, 정확히 50:50.
+
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 037 예시 5"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 037 예시 6"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 037 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 037 Sample 6"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 037 예시 7"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 037 예시 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 037 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 037 Sample 8"></td>
   </tr>
 </table>
 
 ## 3:4 상하 구성 예시
 
-위 16:9 예시와 같은 네 개의 독립 소스를 완전한 3:4 상하 캔버스로 다시 생성했습니다. 위쪽은 현실 사진을 유지하고 아래쪽은 Panel 037의 원본 프롬프트에 따라 재구성합니다. 영어 문구는 각 사진의 내용·분위기·함의에서만 생성했으며 모든 결과를 개별 검수했습니다.
+16:9 세트와 다른 원본 네 장으로 만든 3:4 상하 완성 캔버스. 위는 실사, 아래는 디자인, 정확히 50:50.
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 037 추가 상하 예시 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 037 추가 상하 예시 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 037 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 037 additional top-bottom sample 2"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 037 추가 상하 예시 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 037 추가 상하 예시 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 037 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 037 additional top-bottom sample 4"></td>
   </tr>
 </table>
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090799598336168140) · 2026-08-21<br>
-> GPT2 x 鎏金珐琅 x 冰箱贴 x 美学提示词 x VOL.037
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090799598336168140">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 037의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
-
-<div>
-
-> 배지 하나 · 원본 에나멜 색 · 백색 금속 테두리 · 유금 디테일 · 짧은 실물 그림자
-
-결정적인 윤곽과 국소 특징을 하나의 실제 여행 배지로 압축합니다. 원본 기반 에나멜 칸, 금속 구획선, 흰 금속 테두리, 절제된 유금, 둥근 두께와 짧은 실물 그림자가 하나로 작동합니다.
-
-<!-- xxd-human-intro:start -->
 ## 적합한 상황과 해결하는 문제
 
 사진을 포스터, 표지, 소셜 콘텐츠 또는 배경화면으로 사용할 때 핵심 과제는 단순히 화풍을 바꾸는 것이 아닙니다. 다시 디자인한 뒤에도 대상의 정체성, 중요한 관계, 분위기와 식별성을 유지해야 합니다.
