@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-037
-description: "Create XXD Panel 037 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-037 or requests the exact Panel 037 style."
+description: "XXD Panel 037｜Flowing Gold Emblem: turns the photo's subject into one collectible enamel fridge magnet or metal travel badge — a simplified outline divided into glossy enamel colour areas by gold metal lines, with a clear white metal outer rim, rounded bevelled edges, a few flowing gold details and a short soft shadow as if it lies on paper. Colours come from the photo; the background is cream, pale grey or a soft light tint with wide whitespace. A very short title is part of the badge, curved along the rim, set in the metal frame or on an enamel plaque. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-037 or asks for an enamel pin, metal badge, travel magnet or souvenir emblem from a photo."
 ---
 
 # XXD Panel 037

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 037｜Flowing Gold Emblem: turns the photo's subject into one collectible enamel fridge magnet or metal travel badge — a simplified outline divided into glossy enamel colour areas by gold metal lines, with a clear white metal outer rim, rounded bevelled edges, a few flowing gold details and a short soft shadow as if it lies on paper. Colours come from the photo; the background is cream, pale grey or a soft light tint with wide whitespace. A very short title is part of the badge, curved along the rim, set in the metal frame or on an enamel plaque. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-037 or asks for an enamel pin, metal badge, travel magnet or souvenir emblem from a photo.",
+  "short_description": "流金徽章：把旅途中的照片做成一枚带白色金属描边的流金珐琅纪念徽章",
+  "zh-CN": {
+    "name": "流金徽章",
+    "tagline": "把一段旅途的照片做成一枚可收藏的流金珐琅徽章。",
+    "look": "照片主体被提炼成一个清楚的外轮廓，内部用金色金属线分区，填上光洁饱满的珐琅色块，外圈是一道白色金属描边，边缘有厚度和圆润倒角，少量流金线条点出结构。徽章下方有一道短而柔和的投影，像一枚真正放在纸面上的冰箱贴。背景是米白、浅灰或从原图延伸出的淡色，大面积留白；一个极短的标题沿徽章边缘排成弧形，或嵌在金属框和珐琅铭牌上。",
+    "traits": ["徽章", "珐琅", "金属框", "旅行", "实体短影"],
+    "good": [
+      "外轮廓清楚的地标和建筑：灯塔、钟楼、鸟居、一座桥",
+      "旅途里有代表性的单个对象：一辆电车、一只海鸥、一杯当地饮品、一座山",
+      "想做成旅行纪念、冰箱贴设计或收藏系列的照片"
+    ],
+    "poor": [
+      "全景大场景或人很多的照片，压成一枚徽章会失去重点",
+      "需要认出具体长相的人像，徽章只保留轮廓和色块",
+      "想要卡通贴纸、塑料 3D、厚重阴影或繁复装饰的效果"
+    ]
+  },
+  "en": {
+    "name": "Flowing Gold Emblem",
+    "tagline": "Turns a photo from your journey into one collectible gilded enamel badge.",
+    "look": "The subject is reduced to one clear outline, divided inside by gold metal lines and filled with smooth, full enamel colours, with a white metal outer rim, a bevelled rounded edge and a few flowing gold lines picking out the structure. A short, soft shadow falls beneath it, as if a real fridge magnet were lying on paper. The background is cream, pale grey or a light tint taken from the photo, with plenty of space; a very short title curves along the rim or sits in the metal frame or on an enamel plaque.",
+    "traits": ["Badge", "Enamel", "Metal frame", "Travel", "Short real shadow"],
+    "good": [
+      "Landmarks and buildings with a clear outline: a lighthouse, a clock tower, a torii gate, a bridge",
+      "Single objects that sum up a trip: a tram, a seagull, a local drink, a mountain",
+      "Photos for a travel keepsake, a fridge-magnet design or a collectable series"
+    ],
+    "poor": [
+      "Wide panoramas or crowded photos, which lose their focus when pressed into one badge",
+      "Portraits where a specific face must be recognised, since the badge keeps only outline and colour",
+      "Requests for cartoon stickers, plastic 3D, heavy shadows or ornate decoration"
+    ]
+  },
+  "ja": {
+    "name": "流れる金の紋章",
+    "tagline": "旅の写真を、コレクションしたくなる流金エナメルのバッジ一枚にします。",
+    "look": "主役をはっきりした一つの輪郭にまとめ、内側を金色の金属線で区切って、なめらかで満ちたエナメルの色を流し込みます。外周には白い金属の縁取り、縁には厚みと丸い面取りがあり、流れるような金の線が少し構造を引き立てます。下には短く柔らかな影が落ち、本物のマグネットが紙の上に置かれているように見えます。背景は生成り、淡いグレー、または写真から延ばした淡い色で、余白を広くとります。ごく短いタイトルが縁に沿って弧を描くか、金属の枠やエナメルの銘板に収まります。",
+    "traits": ["バッジ", "エナメル", "金属フレーム", "旅", "実物の短い影"],
+    "good": [
+      "輪郭のはっきりしたランドマークや建物：灯台、時計台、鳥居、橋",
+      "旅を象徴する単体：路面電車、カモメ、ご当地ドリンク、山",
+      "旅の記念品、マグネットのデザイン、コレクションシリーズにしたい写真"
+    ],
+    "poor": [
+      "広いパノラマや人の多い写真（一枚のバッジに縮めると焦点がなくなります）",
+      "特定の顔を見分ける必要がある人物写真（バッジには輪郭と色面しか残りません）",
+      "キャラクター風ステッカー、プラスチック 3D、重い影、凝った装飾を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "흐르는 금빛 엠블럼",
+    "tagline": "여행지의 사진을 수집하고 싶은 유금 에나멜 배지 하나로 만듭니다.",
+    "look": "주인공을 뚜렷한 하나의 윤곽으로 정리하고, 안쪽을 금색 금속선으로 나눠 매끈하고 꽉 찬 에나멜 색을 채웁니다. 바깥에는 흰색 금속 테두리가 있고 가장자리에는 두께와 둥근 모따기가 있으며, 흐르는 듯한 금빛 선 몇 줄이 구조를 살려 줍니다. 아래에는 짧고 부드러운 그림자가 져서 진짜 냉장고 자석이 종이 위에 놓인 것처럼 보입니다. 배경은 미색, 연회색, 또는 사진에서 이어진 연한 색으로 여백을 넓게 두고, 아주 짧은 제목이 테두리를 따라 호를 그리거나 금속 틀이나 에나멜 명판 안에 들어갑니다.",
+    "traits": ["배지", "에나멜", "금속 프레임", "여행", "짧은 실제 그림자"],
+    "good": [
+      "윤곽이 분명한 랜드마크와 건물: 등대, 시계탑, 도리이, 다리",
+      "여행을 대표하는 단일 대상: 전차, 갈매기, 그 지역 음료, 산",
+      "여행 기념품, 냉장고 자석 디자인, 수집 시리즈로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "넓은 파노라마나 사람이 많은 사진(배지 하나로 압축하면 초점이 사라집니다)",
+      "특정 얼굴을 알아봐야 하는 인물 사진(배지는 윤곽과 색면만 남깁니다)",
+      "캐릭터 스티커, 플라스틱 3D, 무거운 그림자, 화려한 장식을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شعار الذهب المتدفق",
+    "tagline": "يحوّل صورة من رحلتك إلى شارة مينا مذهّبة واحدة تستحق الاقتناء.",
+    "look": "يُختزل الموضوع إلى خط خارجي واحد واضح، تُقسّمه من الداخل خطوط معدنية ذهبية وتملؤه ألوان مينا ملساء ممتلئة، ويحيط به إطار معدني أبيض بحافة سميكة مشطوفة مستديرة، وتبرز بنيته بضعة خطوط ذهبية منسابة. تحته ظل قصير ناعم كأنه مغناطيس ثلاجة حقيقي موضوع على ورق. الخلفية بلون الكريم أو رمادي فاتح أو لون خفيف مأخوذ من الصورة مع فراغ واسع، وعنوان قصير جداً ينحني على طول الحافة أو يستقر في الإطار المعدني أو على لوحة من المينا.",
+    "traits": ["شارة", "مينا", "إطار معدني", "سفر", "ظل قصير حقيقي"],
+    "good": [
+      "معالم ومبانٍ بحدود واضحة: منارة، برج ساعة، بوابة توري، جسر",
+      "عنصر منفرد يلخّص الرحلة: ترام، نورس، مشروب محلي، جبل",
+      "صور لتذكار سفر أو تصميم مغناطيس ثلاجة أو سلسلة للاقتناء"
+    ],
+    "poor": [
+      "مشاهد بانورامية واسعة أو صور مزدحمة تفقد تركيزها حين تُضغط في شارة واحدة",
+      "صور شخصية يجب فيها تمييز وجه بعينه، لأن الشارة لا تحتفظ إلا بالخطوط والألوان",
+      "طلب ملصقات كرتونية أو بلاستيك ثلاثي الأبعاد أو ظلال ثقيلة أو زخرفة كثيفة"
+    ]
+  }
+}
